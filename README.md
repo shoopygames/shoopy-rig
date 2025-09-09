@@ -47,7 +47,7 @@ Shoopy-Rig is meant to be called by **Shoopy-Minter**. Do not run it standalone 
 Example:
 
 ```bash
-./shoopy-rig -c config.json -o rig.shoopy.ir:3333 -u <ganjdari_address>
+./shoopy-rig -c config.json -o rig.shoopy.ir:3333 -u <treasury_address>
 ```
 
 ---
